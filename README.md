@@ -25,5 +25,5 @@
 
 --- 
 ### Credits 
-Designed and built by (Anton/ Anton-2785-bit) 
-Inspired by some reels and photos from Adafruit ((https://www.adafruit.com/product/1554)).
+* Designed and built by (Anton/ Anton-2785-bit) 
+* Inspired by some reels and photos from Adafruit ((https://www.adafruit.com/product/1554)).
