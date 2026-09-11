@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB ruller.kicad_pro",
+    "filename": "PCB ruler.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -647,8 +647,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PCB ruller.kicad_sch",
-        "name": "PCB ruller",
+        "filename": "PCB ruler.kicad_sch",
+        "name": "PCB ruler",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
