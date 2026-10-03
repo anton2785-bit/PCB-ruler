@@ -11,6 +11,8 @@
 
 --- 
 ### Images
+* The PCBs After I got them shipped:
+<img width="4096" height="2304" alt="Actuals rulers" src="https://github.com/user-attachments/assets/38a9bdef-d0f4-4460-bfab-8ed035e0c3c5" />
 * The layers of the PCB
 <img width="1011" height="280" alt="PCB" src="https://github.com/user-attachments/assets/9186c637-f1b9-4617-b811-70cea47fc691" />
 * The layers, but separated from one another
